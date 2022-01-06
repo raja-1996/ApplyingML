@@ -11,6 +11,7 @@
 2. [Embedding-based Retrieval in Facebook Search](https://arxiv.org/pdf/2006.11632.pdf) `Facebook` `2020`
 3. [Towards Personalized and Semantic Retrieval](https://arxiv.org/pdf/2006.02282.pdf) `JD.com` `2020`
 4. [Cascade Ranking for Operational E-commerce Search](https://arxiv.org/pdf/1706.02093.pdf) `Alibaba` `2017`
+5. [SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS](https://arxiv.org/pdf/1511.06939.pdf) `Telefonica` `2016`
 
 ## Data Engineering
 1. [Zipline: Airbnb’s Machine Learning Data Management Platform](https://databricks.com/session/zipline-airbnbs-machine-learning-data-management-platform) `Airbnb` `2018`
