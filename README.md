@@ -12,6 +12,7 @@
 3. [Towards Personalized and Semantic Retrieval](https://arxiv.org/pdf/2006.02282.pdf) `JD.com` `2020`
 4. [Cascade Ranking for Operational E-commerce Search](https://arxiv.org/pdf/1706.02093.pdf) `Alibaba` `2017`
 5. [SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS](https://arxiv.org/pdf/1511.06939.pdf) `Telefonica` `2016`
+6. [Personalized Re-ranking for Recommendation](https://arxiv.org/pdf/1904.06813.pdf) `Alibaba` `2019`
 
 ## Data Engineering
 1. [Zipline: Airbnb’s Machine Learning Data Management Platform](https://databricks.com/session/zipline-airbnbs-machine-learning-data-management-platform) `Airbnb` `2018`
