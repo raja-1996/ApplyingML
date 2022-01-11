@@ -15,7 +15,6 @@
 6. [Personalized Re-ranking for Recommendation](https://arxiv.org/pdf/1904.06813.pdf) `Alibaba` `2019`
 7. [Neural Search: Learning Query and Product Representations in Fashion E-commerce](https://arxiv.org/pdf/2107.08291.pdf) `Myntra` `2021`
 
-## Data Engineering
-1. [Zipline: Airbnb’s Machine Learning Data Management Platform](https://databricks.com/session/zipline-airbnbs-machine-learning-data-management-platform) `Airbnb` `2018`
-2. [Sputnik: Airbnb’s Apache Spark Framework for Data Engineering](https://databricks.com/session_na20/sputnik-airbnbs-apache-spark-framework-for-data-engineering) `Airbnb` `2020`
+## TO Read
+1. [Multilingual and Multilabel Emotion Recognition using Virtual Adversarial Training](https://aclanthology.org/2021.mrl-1.7.pdf) `Sharechat` `2021`
 
