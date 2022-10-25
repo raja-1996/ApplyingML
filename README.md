@@ -25,6 +25,22 @@
 16. [PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403280) `Pinterest` `2020` `KDD`
 17. [Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations](https://dl.acm.org/doi/pdf/10.1145/3366424.3386195?casa_token=sC1a5RGJRcEAAAAA:MiGLhHKtLbka9_n7KS59M9U9-BCah1U0MKspXBo4YNVf50M4aqFoy-U-OWgZPg1kWHtNvZZgHWN_6g) `Google` `2020` `WebConference`
 18. [Towards Personalized and Semantic Retrieval: An End-to-End Solution for E-commerce Search via Embedding Learning](https://dl.acm.org/doi/pdf/10.1145/3397271.3401446?casa_token=2RgrdG397kAAAAAA:yapkIsOdFVpXDNHyMTmUiHsfDojAIMHFhklSI39mc4toXuL-HeVFhMVgoOACli4d5trDirlJ2rTVeg) `JD.com` `2020` `SIGIR` 
+19. [Pre-trained Language Model for Web-scale Retrieval in Baidu Search](https://dl.acm.org/doi/pdf/10.1145/3447548.3467149?casa_token=a4PtBDqQXPQAAAAA:_b4qZzj7ODD5YSt55XPGFdUlhP-Lzmrei8FEwUN7q_1fR-i3gCkS0iUfKBMyzL-17oMsK5Th1htkdw) `Baidu` `2021` `KDD`
+20. []() `` `` ``
+21. []() `` `` ``
+22. []() `` `` ``
+23. []() `` `` ``
+24. []() `` `` ``
+25. []() `` `` ``
+26. []() `` `` ``
+27. []() `` `` ``
+28. []() `` `` ``
+29. []() `` `` ``
+30. []() `` `` ``
+31. []() `` `` ``
+32. []() `` `` ``
+33. []() `` `` ``
+34. []() `` `` ``
 
 ## TO Read
 1. [Multilingual and Multilabel Emotion Recognition using Virtual Adversarial Training](https://aclanthology.org/2021.mrl-1.7.pdf) `Sharechat` `2021`
