@@ -27,7 +27,7 @@
 18. [Towards Personalized and Semantic Retrieval: An End-to-End Solution for E-commerce Search via Embedding Learning](https://dl.acm.org/doi/pdf/10.1145/3397271.3401446?casa_token=2RgrdG397kAAAAAA:yapkIsOdFVpXDNHyMTmUiHsfDojAIMHFhklSI39mc4toXuL-HeVFhMVgoOACli4d5trDirlJ2rTVeg) `JD.com` `2020` `SIGIR` 
 19. [Pre-trained Language Model for Web-scale Retrieval in Baidu Search](https://dl.acm.org/doi/pdf/10.1145/3447548.3467149?casa_token=a4PtBDqQXPQAAAAA:_b4qZzj7ODD5YSt55XPGFdUlhP-Lzmrei8FEwUN7q_1fR-i3gCkS0iUfKBMyzL-17oMsK5Th1htkdw) `Baidu` `2021` `KDD`
 20. [Embedding-based Product Retrieval in Taobao Search](https://dl.acm.org/doi/pdf/10.1145/3447548.3467101?casa_token=jGny8kRA3TMAAAAA:wlurssEUuObVN_CfV5CFhcyVl6R78fXsMas-e_SVJN3QNLmQfGjCWyggUQ1Pzpw4GNOHAOllkLUWvw) `Alibaba` `2021` `KDD`
-21. []() `` `` ``
+21. [ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest](https://arxiv.org/pdf/2205.11728.pdf) `Pinterest` `2022` `KDD`
 22. []() `` `` ``
 23. []() `` `` ``
 24. []() `` `` ``
