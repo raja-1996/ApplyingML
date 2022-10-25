@@ -33,7 +33,7 @@
 24. [Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3292500.3330666?casa_token=Rx-QF_NQ4_YAAAAA:E2PI95AhjKMoAMZHU7Hyw2-NXh0G6CJCVVqABfS2YGS4UTbvMhsz558IxwG8BpK8SJ8ENsqxBQLqpw) `Alibaba` `2019` `KDD`
 25. [Controllable Multi-Interest Framework for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403344?casa_token=LFvjtq__IEwAAAAA:vC4jAlyeWl6uVQOhMbN3IN8XxrWuAU8SfQW29rVD7u_LARpkeBqNm5OUwO5JFoLxLP3aKxw3LuBhoQ) `Alibaba` `2020` `KDD`
 26. [Learning Item-Interaction Embeddings for User Recommendations](https://arxiv.org/pdf/1812.04407.pdf) `Etsy` `2018` `WSDM`
-27. []() `` `` ``
+27. [Efficiently Identifying Task Groupings for Multi-Task Learning](https://arxiv.org/pdf/2109.04617.pdf) `Google` `2019` `NeurIPS`
 28. []() `` `` ``
 29. []() `` `` ``
 30. []() `` `` ``
