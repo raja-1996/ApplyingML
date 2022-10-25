@@ -26,7 +26,7 @@
 17. [Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations](https://dl.acm.org/doi/pdf/10.1145/3366424.3386195?casa_token=sC1a5RGJRcEAAAAA:MiGLhHKtLbka9_n7KS59M9U9-BCah1U0MKspXBo4YNVf50M4aqFoy-U-OWgZPg1kWHtNvZZgHWN_6g) `Google` `2020` `WebConference`
 18. [Towards Personalized and Semantic Retrieval: An End-to-End Solution for E-commerce Search via Embedding Learning](https://dl.acm.org/doi/pdf/10.1145/3397271.3401446?casa_token=2RgrdG397kAAAAAA:yapkIsOdFVpXDNHyMTmUiHsfDojAIMHFhklSI39mc4toXuL-HeVFhMVgoOACli4d5trDirlJ2rTVeg) `JD.com` `2020` `SIGIR` 
 19. [Pre-trained Language Model for Web-scale Retrieval in Baidu Search](https://dl.acm.org/doi/pdf/10.1145/3447548.3467149?casa_token=a4PtBDqQXPQAAAAA:_b4qZzj7ODD5YSt55XPGFdUlhP-Lzmrei8FEwUN7q_1fR-i3gCkS0iUfKBMyzL-17oMsK5Th1htkdw) `Baidu` `2021` `KDD`
-20. []() `` `` ``
+20. [Embedding-based Product Retrieval in Taobao Search](https://dl.acm.org/doi/pdf/10.1145/3447548.3467101?casa_token=jGny8kRA3TMAAAAA:wlurssEUuObVN_CfV5CFhcyVl6R78fXsMas-e_SVJN3QNLmQfGjCWyggUQ1Pzpw4GNOHAOllkLUWvw) `Alibaba` `2021` `KDD`
 21. []() `` `` ``
 22. []() `` `` ``
 23. []() `` `` ``
