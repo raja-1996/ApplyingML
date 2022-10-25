@@ -30,7 +30,7 @@
 21. [ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest](https://arxiv.org/pdf/2205.11728.pdf) `Pinterest` `2022` `KDD`
 22. [Multi-Objective Personalized Product Retrieval in Taobao Search](https://arxiv.org/pdf/2210.04170.pdf) `Alibaba` `2022`
 23. [Deep interest evolution network for click-through rate prediction](https://ojs.aaai.org/index.php/AAAI/article/download/4545/4423) `Alibaba` `2019` `aaai`
-24. []() `` `` ``
+24. [Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3292500.3330666?casa_token=Rx-QF_NQ4_YAAAAA:E2PI95AhjKMoAMZHU7Hyw2-NXh0G6CJCVVqABfS2YGS4UTbvMhsz558IxwG8BpK8SJ8ENsqxBQLqpw) `Alibaba` `2019` `KDD`
 25. []() `` `` ``
 26. []() `` `` ``
 27. []() `` `` ``
