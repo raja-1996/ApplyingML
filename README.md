@@ -17,9 +17,9 @@
 8. [Que2Search: Fast and Accurate Query and Document Understanding for Search at Facebook](https://scontent.fhyd14-2.fna.fbcdn.net/v/t39.8562-6/246795273_2109661252514735_2459553109378891559_n.pdf?_nc_cat=105&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=69NFnshwkLwAX9Et3SA&_nc_oc=AQlUpT_DEf6n62AXr1lUCIBTxERugILNK3JPket7oiqMzf1MwtwLsb_q4Fbqf9nLhEAPuHMLKAOakzqXkgf74jtx&_nc_ht=scontent.fhyd14-2.fna&oh=00_AT8AnxDOagNPF0g42ZqosJufiRkMcspVscgSpjgMRn9W5w&oe=61E847A3) `Facebook` `2021`
 9. [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf) `Google` `2016`
 10. [PinnerFormer: Sequence Modeling for User Representation at Pinterest](https://arxiv.org/pdf/2205.04507.pdf) `Pinterest` `2022`
-11. [PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403280) `Pinterest` `2020`
-12. [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://dl.acm.org/doi/pdf/10.1145/3326937.3341261?casa_token=xH0DufvQP1cAAAAA:w15d5R53nqhH2-L7mKn7D5YW55Oj9LrlCKiXnb0d3dw_5LV99Azz7wJWyL1kRjKhtumQ1mQhX3Nv6w) `Alibaba` `2019`
-13. [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/pdf/10.1145/2959100.2959190?utm_campaign=La%20cyber%20semaine%20de%20Malizen&utm_medium=email&utm_source=Revue%20newsletter) `Youtube` `2016`
+11. [PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403280) `Pinterest` `2020` `KDD`
+12. [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://dl.acm.org/doi/pdf/10.1145/3326937.3341261?casa_token=xH0DufvQP1cAAAAA:w15d5R53nqhH2-L7mKn7D5YW55Oj9LrlCKiXnb0d3dw_5LV99Azz7wJWyL1kRjKhtumQ1mQhX3Nv6w) `Alibaba` `2019` `KDD`
+13. [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/pdf/10.1145/2959100.2959190?utm_campaign=La%20cyber%20semaine%20de%20Malizen&utm_medium=email&utm_source=Revue%20newsletter) `Youtube` `2016` `Recsys`
 14. [Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://dl.acm.org/doi/pdf/10.1145/3219819.3219885?casa_token=kEyhZm8vccIAAAAA:qwea_yu7OwC-xrIZ22r-DPm1Y3OcOKpRorKGYbvGFnhgylHS44RtYgWepAoMhPc8tkng9fi_SIinWA) `Airbnb` `2018` `KDD`
 
 ## TO Read
