@@ -18,6 +18,7 @@
 9. [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf) `Google` `2016`
 10. [PinnerFormer: Sequence Modeling for User Representation at Pinterest](https://arxiv.org/pdf/2205.04507.pdf) `Pinterest` `2022`
 11. [PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403280) `Pinterest` `2020`
+12. [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://dl.acm.org/doi/pdf/10.1145/3326937.3341261?casa_token=xH0DufvQP1cAAAAA:w15d5R53nqhH2-L7mKn7D5YW55Oj9LrlCKiXnb0d3dw_5LV99Azz7wJWyL1kRjKhtumQ1mQhX3Nv6w) `Alibaba` `2019`
 
 ## TO Read
 1. [Multilingual and Multilabel Emotion Recognition using Virtual Adversarial Training](https://aclanthology.org/2021.mrl-1.7.pdf) `Sharechat` `2021`
