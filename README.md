@@ -35,7 +35,7 @@
 26. [Learning Item-Interaction Embeddings for User Recommendations](https://arxiv.org/pdf/1812.04407.pdf) `Etsy` `2018` `WSDM`
 27. [Efficiently Identifying Task Groupings for Multi-Task Learning](https://arxiv.org/pdf/2109.04617.pdf) `Google` `2019` `NeurIPS`
 28. [On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models](https://arxiv.org/pdf/2209.05310.pdf) `Google` `2022` `Recsys`
-29. []() `` `` ``
+29. [Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/pdf/2209.07663.pdf) `TikTok` `2022` `Recsys`
 30. []() `` `` ``
 31. []() `` `` ``
 32. []() `` `` ``
