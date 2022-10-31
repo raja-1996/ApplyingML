@@ -36,7 +36,7 @@
 27. [Efficiently Identifying Task Groupings for Multi-Task Learning](https://arxiv.org/pdf/2109.04617.pdf) `Google` `2019` `NeurIPS`
 28. [On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models](https://arxiv.org/pdf/2209.05310.pdf) `Google` `2022` `Recsys`
 29. [Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/pdf/2209.07663.pdf) `TikTok` `2022` `Recsys`
-30. []() `` `` ``
+30. [Practical Diversified Recommendations on YouTube with Determinantal Point Processes](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018) `Google` `2018` `CIKM`
 31. []() `` `` ``
 32. []() `` `` ``
 33. []() `` `` ``
