@@ -37,7 +37,7 @@
 28. [On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models](https://arxiv.org/pdf/2209.05310.pdf) `Google` `2022` `Recsys`
 29. [Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/pdf/2209.07663.pdf) `TikTok` `2022` `Recsys`
 30. [Practical Diversified Recommendations on YouTube with Determinantal Point Processes](https://dl.acm.org/doi/pdf/10.1145/3269206.3272018) `Google` `2018` `CIKM`
-31. []() `` `` ``
+31. [On Sampled Metrics for Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3535335) `Google` `2020`
 32. []() `` `` ``
 33. []() `` `` ``
 34. []() `` `` ``
