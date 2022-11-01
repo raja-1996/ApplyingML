@@ -5,6 +5,7 @@
 
 1. [Recommender Systems](#recommender-systems)
 2. [Data Engineering](#data-engineering)
+3. [ML Surveys](#ml-surveys)
 
 ## Recommender Systems
 1. [Home Embeddings for Similar Home Recommendations](https://www.zillow.com/tech/embedding-similar-home-recommendation/) `Zillow` `2018`
@@ -42,6 +43,10 @@
 33. [Homepage Recommendation with Exploitation and Exploration](https://doordash.engineering/2022/10/05/homepage-recommendation-with-exploitation-and-exploration/) `DoorDash` `2022`
 34. []() `` `` ``
 35. []() `` `` ``
+
+
+## ML Surveys
+1. [Reinforcement Learning based Recommender Systems: A Survey](https://arxiv.org/pdf/2101.06286.pdf) `2022`
 
 ## TO Read
 1. [Multilingual and Multilabel Emotion Recognition using Virtual Adversarial Training](https://aclanthology.org/2021.mrl-1.7.pdf) `Sharechat` `2021`
