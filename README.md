@@ -7,6 +7,7 @@
 2. [Fairness](#fairness)
 3. [Data Engineering](#data-engineering)
 4. [ML Surveys](#ml-surveys)
+5. [RecSys Resources](#recsys-resources)
 
 ## Recommender Systems
 1. [Deep content-based music recommendation](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf) `2013`
@@ -76,4 +77,8 @@
 
 ## TO Read
 1. [Multilingual and Multilabel Emotion Recognition using Virtual Adversarial Training](https://aclanthology.org/2021.mrl-1.7.pdf) `Sharechat` `2021`
+
+
+## RecSys Resources
+1. [Summary of Papers Related to Recommendation System](https://github.com/tangxyw/RecSysPapers/blob/main/README_EN.md)
 
