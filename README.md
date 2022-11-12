@@ -65,8 +65,8 @@
 53. [Que2Search: Fast and Accurate Query and Document Understanding for Search at Facebook](https://scontent.fhyd14-2.fna.fbcdn.net/v/t39.8562-6/246795273_2109661252514735_2459553109378891559_n.pdf?_nc_cat=105&ccb=1-5&_nc_sid=ad8a9d&_nc_ohc=69NFnshwkLwAX9Et3SA&_nc_oc=AQlUpT_DEf6n62AXr1lUCIBTxERugILNK3JPket7oiqMzf1MwtwLsb_q4Fbqf9nLhEAPuHMLKAOakzqXkgf74jtx&_nc_ht=scontent.fhyd14-2.fna&oh=00_AT8AnxDOagNPF0g42ZqosJufiRkMcspVscgSpjgMRn9W5w&oe=61E847A3) `Facebook` `2021`
 54. [Top-K Contextual Bandits with Equity of Exposure](https://www.youtube.com/watch?v=z25m3Gus85c&ab_channel=ACMRecSys)  `2021` `Recsys`
 55. [On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models](https://arxiv.org/pdf/2209.05310.pdf) `Google` `2022` `Recsys`
-56. [Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/pdf/2209.07663.pdf) `TikTok` `2022` `Recsys`
-57. [PinnerFormer: Sequence Modeling for User Representation at Pinterest](https://arxiv.org/pdf/2205.04507.pdf) `Pinterest` `2022`
+56. [Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/pdf/2209.07663.pdf) `TikTok` `2022` `Recsys` `Real-time` 
+57. [PinnerFormer: Sequence Modeling for User Representation at Pinterest](https://arxiv.org/pdf/2205.04507.pdf) `Pinterest` `2022` `long-term`
 58. [Homepage Recommendation with Exploitation and Exploration](https://doordash.engineering/2022/10/05/homepage-recommendation-with-exploitation-and-exploration/) `DoorDash` `2022`
 59. [Reinforcement Learning for Budget Constrained Recommendations](https://netflixtechblog.com/reinforcement-learning-for-budget-constrained-recommendations-6cbc5263a32a) `Netflix` `2022`
 60. []() `` `` ``
