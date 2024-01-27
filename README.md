@@ -18,6 +18,7 @@
 5. [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf) `OpenAI` `2021`
 6.  [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf) `OpenAI` `2022`
 7. [BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/pdf/2106.08254.pdf) `Microsoft` `2022`
+8. [FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/pdf/2112.04482.pdf) `Facebook` `2022`
 
 ## Recommender Systems
 1. [Deep content-based music recommendation](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf) `2013`
