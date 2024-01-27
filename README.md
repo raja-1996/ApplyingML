@@ -11,14 +11,15 @@
 6. [RecSys Resources](#recsys-resources)
 
 ## Vision
-1. [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf) `` `2020`
-2.  [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf) `Google` `2021`
-3. [Training data-efficient image transformers & distillation through attention](https://arxiv.org/pdf/2012.12877.pdf) `Facebook`  `2021`
-4. [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) `OpenAI` `2021`
-5. [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf) `OpenAI` `2021`
-6.  [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf) `OpenAI` `2022`
-7. [BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/pdf/2106.08254.pdf) `Microsoft` `2022`
-8. [FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/pdf/2112.04482.pdf) `Facebook` `2022`
+1. [Learning a Unified Embedding for Visual Search at Pinterest](https://arxiv.org/pdf/1908.01707.pdf) `Pinterest` `2019`
+2. [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf) `` `2020`
+3.  [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf) `Google` `2021`
+4. [Training data-efficient image transformers & distillation through attention](https://arxiv.org/pdf/2012.12877.pdf) `Facebook`  `2021`
+5. [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf) `OpenAI` `2021`
+6. [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092.pdf) `OpenAI` `2021`
+7.  [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://arxiv.org/pdf/2204.06125.pdf) `OpenAI` `2022`
+8. [BEIT: BERT Pre-Training of Image Transformers](https://arxiv.org/pdf/2106.08254.pdf) `Microsoft` `2022`
+9. [FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/pdf/2112.04482.pdf) `Facebook` `2022`
 
 ## Recommender Systems
 1. [Deep content-based music recommendation](https://proceedings.neurips.cc/paper/2013/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf) `2013`
