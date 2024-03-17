@@ -81,7 +81,8 @@
 57. [PinnerFormer: Sequence Modeling for User Representation at Pinterest](https://arxiv.org/pdf/2205.04507.pdf) `Pinterest` `2022` `long-term`
 58. [Homepage Recommendation with Exploitation and Exploration](https://doordash.engineering/2022/10/05/homepage-recommendation-with-exploitation-and-exploration/) `DoorDash` `2022`
 59. [Reinforcement Learning for Budget Constrained Recommendations](https://netflixtechblog.com/reinforcement-learning-for-budget-constrained-recommendations-6cbc5263a32a) `Netflix` `2022`
-60. []() `` `` ``
+60. [Scaling User Modeling: Large-scale Online User Representations for Ads Personalization in Meta](https://arxiv.org/pdf/2311.09544.pdf) `Facebook` `2023` `WWW`
+61. []() `` `` ``
 
 ## Fairness
 1. [Towards Long-term Fairness in Recommendation](https://arxiv.org/pdf/2101.03584.pdf) `Alibab` `2021` `WSDM`
