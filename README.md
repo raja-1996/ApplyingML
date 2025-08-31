@@ -1,5 +1,4 @@
-# ApplyingML Test1 
-# ApplyingML Test2
+# ApplyingML
 
 
 **Table of Contents**
